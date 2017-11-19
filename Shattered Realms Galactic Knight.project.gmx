@@ -9,16 +9,20 @@
     <sprite>sprites\spr_testplayer</sprite>
     <sprite>sprites\spr_test_enemy</sprite>
     <sprite>sprites\spr_test_bullet</sprite>
+    <sprite>sprites\spr_shockwave</sprite>
+    <sprite>sprites\spr_test_enemy2</sprite>
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
   <objects name="objects">
     <object>objects\obj_player</object>
-    <object>objects\obj_enemy</object>
     <object>objects\obj_controller</object>
     <object>objects\obj_bullet</object>
     <object>objects\obj_flame</object>
     <object>objects\obj_melee</object>
+    <object>objects\obj_enemy</object>
+    <object>objects\obj_enemy2</object>
+    <object>objects\obj_enemy_bullet</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\room0</room>

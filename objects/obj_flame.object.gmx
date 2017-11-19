@@ -46,11 +46,11 @@
         <arguments>
           <argument>
             <kind>0</kind>
-            <string>mouse_x + random_range(-60, 60)</string>
+            <string>mouse_x + random_range(-100, 100)</string>
           </argument>
           <argument>
             <kind>0</kind>
-            <string>mouse_y + random_range(-60, 60)</string>
+            <string>mouse_y + random_range(-100, 100)</string>
           </argument>
           <argument>
             <kind>0</kind>
