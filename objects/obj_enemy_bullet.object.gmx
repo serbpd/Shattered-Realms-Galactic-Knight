@@ -25,11 +25,11 @@
         <arguments>
           <argument>
             <kind>0</kind>
-            <string>obj_player.x</string>
+            <string>obj_Dylan.x</string>
           </argument>
           <argument>
             <kind>0</kind>
-            <string>obj_player.y</string>
+            <string>obj_Dylan.y</string>
           </argument>
           <argument>
             <kind>0</kind>

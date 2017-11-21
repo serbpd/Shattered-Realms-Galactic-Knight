@@ -195,7 +195,7 @@
         <arguments>
           <argument>
             <kind>0</kind>
-            <string>distance_to_object(obj_player) &lt; 400</string>
+            <string>distance_to_object(obj_Dylan) &lt; 400</string>
           </argument>
         </arguments>
       </action>
@@ -377,7 +377,7 @@
         <arguments>
           <argument>
             <kind>1</kind>
-            <string>image_angle = point_direction(x, y, obj_player.x, obj_player.y);
+            <string>image_angle = point_direction(x, y, obj_Dylan.x, obj_Dylan.y);
 </string>
           </argument>
         </arguments>

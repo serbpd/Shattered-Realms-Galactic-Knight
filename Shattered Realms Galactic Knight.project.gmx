@@ -11,11 +11,18 @@
     <sprite>sprites\spr_test_bullet</sprite>
     <sprite>sprites\spr_shockwave</sprite>
     <sprite>sprites\spr_test_enemy2</sprite>
+    <sprite>sprites\spr_DylanH</sprite>
+    <sprite>sprites\spr_DylanV</sprite>
+    <sprite>sprites\spr_blaster</sprite>
+    <sprite>sprites\spr_blast</sprite>
+    <sprite>sprites\spr_flamethrower</sprite>
+    <sprite>sprites\spr_flame</sprite>
+    <sprite>sprites\spr_mallet</sprite>
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
   <objects name="objects">
-    <object>objects\obj_player</object>
+    <object>objects\obj_Dylan</object>
     <object>objects\obj_controller</object>
     <object>objects\obj_bullet</object>
     <object>objects\obj_flame</object>

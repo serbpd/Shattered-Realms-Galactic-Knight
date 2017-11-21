@@ -145,7 +145,7 @@
         <arguments>
           <argument>
             <kind>0</kind>
-            <string>aggro == 1 || distance_to_object(obj_player) &lt; 200</string>
+            <string>aggro == 1 || distance_to_object(obj_Dylan) &lt; 200</string>
           </argument>
         </arguments>
       </action>
@@ -203,11 +203,11 @@
         <arguments>
           <argument>
             <kind>0</kind>
-            <string>obj_player.x</string>
+            <string>obj_Dylan.x</string>
           </argument>
           <argument>
             <kind>0</kind>
-            <string>obj_player.y</string>
+            <string>obj_Dylan.y</string>
           </argument>
           <argument>
             <kind>0</kind>
@@ -231,7 +231,7 @@
         <arguments>
           <argument>
             <kind>1</kind>
-            <string>image_angle = point_direction(x, y, obj_player.x, obj_player.y);
+            <string>image_angle = point_direction(x, y, obj_Dylan.x, obj_Dylan.y);
 </string>
           </argument>
         </arguments>
@@ -249,6 +249,32 @@
         <whoName>self</whoName>
         <relative>0</relative>
         <isnot>0</isnot>
+      </action>
+    </event>
+    <event eventtype="4" ename="obj_enemy">
+      <action>
+        <libid>1</libid>
+        <id>115</id>
+        <kind>0</kind>
+        <userelative>0</userelative>
+        <isquestion>0</isquestion>
+        <useapplyto>-1</useapplyto>
+        <exetype>1</exetype>
+        <functionname>action_bounce</functionname>
+        <codestring></codestring>
+        <whoName>self</whoName>
+        <relative>0</relative>
+        <isnot>0</isnot>
+        <arguments>
+          <argument>
+            <kind>4</kind>
+            <string>0</string>
+          </argument>
+          <argument>
+            <kind>4</kind>
+            <string>0</string>
+          </argument>
+        </arguments>
       </action>
     </event>
     <event eventtype="4" ename="obj_melee">
@@ -441,32 +467,6 @@
         <whoName>other</whoName>
         <relative>0</relative>
         <isnot>0</isnot>
-      </action>
-    </event>
-    <event eventtype="4" ename="obj_enemy">
-      <action>
-        <libid>1</libid>
-        <id>115</id>
-        <kind>0</kind>
-        <userelative>0</userelative>
-        <isquestion>0</isquestion>
-        <useapplyto>-1</useapplyto>
-        <exetype>1</exetype>
-        <functionname>action_bounce</functionname>
-        <codestring></codestring>
-        <whoName>self</whoName>
-        <relative>0</relative>
-        <isnot>0</isnot>
-        <arguments>
-          <argument>
-            <kind>4</kind>
-            <string>0</string>
-          </argument>
-          <argument>
-            <kind>4</kind>
-            <string>0</string>
-          </argument>
-        </arguments>
       </action>
     </event>
   </events>
