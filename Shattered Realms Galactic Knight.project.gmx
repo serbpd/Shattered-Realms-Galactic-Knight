@@ -30,6 +30,8 @@
     <object>objects\obj_enemy</object>
     <object>objects\obj_enemy2</object>
     <object>objects\obj_enemy_bullet</object>
+    <object>objects\obj_flamethrower</object>
+    <object>objects\obj_mallet</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\room0</room>
