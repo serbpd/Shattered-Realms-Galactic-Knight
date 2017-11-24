@@ -5,7 +5,7 @@
   <visible>-1</visible>
   <depth>0</depth>
   <persistent>0</persistent>
-  <parentName>&lt;undefined&gt;</parentName>
+  <parentName>obj_enemy_parent</parentName>
   <maskName>&lt;undefined&gt;</maskName>
   <events>
     <event eventtype="0" enumb="0">
@@ -29,7 +29,7 @@
           </argument>
           <argument>
             <kind>0</kind>
-            <string>30</string>
+            <string>11</string>
           </argument>
         </arguments>
       </action>
@@ -54,6 +54,28 @@
           <argument>
             <kind>0</kind>
             <string>0</string>
+          </argument>
+        </arguments>
+      </action>
+      <action>
+        <libid>1</libid>
+        <id>603</id>
+        <kind>7</kind>
+        <userelative>0</userelative>
+        <isquestion>0</isquestion>
+        <useapplyto>-1</useapplyto>
+        <exetype>2</exetype>
+        <functionname></functionname>
+        <codestring></codestring>
+        <whoName>self</whoName>
+        <relative>0</relative>
+        <isnot>0</isnot>
+        <arguments>
+          <argument>
+            <kind>1</kind>
+            <string>image_xscale = .5;
+image_yscale = .5;
+</string>
           </argument>
         </arguments>
       </action>
@@ -145,7 +167,7 @@
         <arguments>
           <argument>
             <kind>0</kind>
-            <string>aggro == 1 || distance_to_object(obj_Dylan) &lt; 200</string>
+            <string>aggro == 1 || distance_to_object(obj_Dylan) &lt; 300</string>
           </argument>
         </arguments>
       </action>
@@ -211,7 +233,7 @@
           </argument>
           <argument>
             <kind>0</kind>
-            <string>3.8</string>
+            <string>4.2</string>
           </argument>
         </arguments>
       </action>
@@ -251,7 +273,59 @@
         <isnot>0</isnot>
       </action>
     </event>
-    <event eventtype="4" ename="obj_enemy">
+    <event eventtype="4" ename="obj_enemy_tank">
+      <action>
+        <libid>1</libid>
+        <id>115</id>
+        <kind>0</kind>
+        <userelative>0</userelative>
+        <isquestion>0</isquestion>
+        <useapplyto>-1</useapplyto>
+        <exetype>1</exetype>
+        <functionname>action_bounce</functionname>
+        <codestring></codestring>
+        <whoName>self</whoName>
+        <relative>0</relative>
+        <isnot>0</isnot>
+        <arguments>
+          <argument>
+            <kind>4</kind>
+            <string>0</string>
+          </argument>
+          <argument>
+            <kind>4</kind>
+            <string>0</string>
+          </argument>
+        </arguments>
+      </action>
+    </event>
+    <event eventtype="4" ename="obj_enemy_mini">
+      <action>
+        <libid>1</libid>
+        <id>115</id>
+        <kind>0</kind>
+        <userelative>0</userelative>
+        <isquestion>0</isquestion>
+        <useapplyto>-1</useapplyto>
+        <exetype>1</exetype>
+        <functionname>action_bounce</functionname>
+        <codestring></codestring>
+        <whoName>self</whoName>
+        <relative>0</relative>
+        <isnot>0</isnot>
+        <arguments>
+          <argument>
+            <kind>4</kind>
+            <string>0</string>
+          </argument>
+          <argument>
+            <kind>4</kind>
+            <string>0</string>
+          </argument>
+        </arguments>
+      </action>
+    </event>
+    <event eventtype="4" ename="obj_enemy_chaser">
       <action>
         <libid>1</libid>
         <id>115</id>

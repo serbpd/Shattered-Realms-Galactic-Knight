@@ -11,13 +11,13 @@
     <sprite>sprites\spr_test_bullet</sprite>
     <sprite>sprites\spr_shockwave</sprite>
     <sprite>sprites\spr_test_enemy2</sprite>
-    <sprite>sprites\spr_DylanH</sprite>
-    <sprite>sprites\spr_DylanV</sprite>
+    <sprite>sprites\spr_Dylan</sprite>
     <sprite>sprites\spr_blaster</sprite>
     <sprite>sprites\spr_blast</sprite>
     <sprite>sprites\spr_flamethrower</sprite>
     <sprite>sprites\spr_flame</sprite>
     <sprite>sprites\spr_mallet</sprite>
+    <sprite>sprites\spr_warp</sprite>
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
@@ -27,14 +27,22 @@
     <object>objects\obj_bullet</object>
     <object>objects\obj_flame</object>
     <object>objects\obj_melee</object>
-    <object>objects\obj_enemy</object>
-    <object>objects\obj_enemy2</object>
+    <object>objects\obj_enemy_parent</object>
+    <object>objects\obj_enemy_chaser</object>
+    <object>objects\obj_enemy_tank</object>
+    <object>objects\obj_enemy_mini</object>
+    <object>objects\obj_enemy_shooter</object>
     <object>objects\obj_enemy_bullet</object>
     <object>objects\obj_flamethrower</object>
     <object>objects\obj_mallet</object>
+    <object>objects\obj_warp_parent</object>
+    <object>objects\obj_warp1</object>
+    <object>objects\obj_warp2</object>
+    <object>objects\obj_warp3</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\room0</room>
+    <room>rooms\room1</room>
   </rooms>
   <help>
     <rtf>help.rtf</rtf>
