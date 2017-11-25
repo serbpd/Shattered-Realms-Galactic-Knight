@@ -20,6 +20,7 @@
     <sprite>sprites\spr_wall</sprite>
     <sprite>sprites\spr_door</sprite>
     <sprite>sprites\spr_splat</sprite>
+    <sprite>sprites\spr_health</sprite>
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
@@ -39,11 +40,12 @@
     <object>objects\obj_flamethrower</object>
     <object>objects\obj_mallet</object>
     <object>objects\obj_warp_parent</object>
+    <object>objects\obj_warp0</object>
     <object>objects\obj_warp1</object>
     <object>objects\obj_warp2</object>
-    <object>objects\obj_warp3</object>
     <object>objects\obj_wall</object>
     <object>objects\obj_door</object>
+    <object>objects\obj_health</object>
     <object>objects\obj_splat</object>
   </objects>
   <rooms name="rooms">
