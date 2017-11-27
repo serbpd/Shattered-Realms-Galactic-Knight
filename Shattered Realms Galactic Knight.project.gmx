@@ -10,7 +10,7 @@
     <sprite>sprites\spr_test_bullet</sprite>
     <sprite>sprites\spr_shockwave</sprite>
     <sprite>sprites\spr_test_enemy2</sprite>
-    <sprite>sprites\spr_Dylan</sprite>
+    <sprite>sprites\spr_DylanV</sprite>
     <sprite>sprites\spr_blaster</sprite>
     <sprite>sprites\spr_blast</sprite>
     <sprite>sprites\spr_flamethrower</sprite>
@@ -22,6 +22,7 @@
     <sprite>sprites\spr_splat</sprite>
     <sprite>sprites\spr_health</sprite>
     <sprite>sprites\spr_cursor</sprite>
+    <sprite>sprites\spr_DylanH</sprite>
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths">
