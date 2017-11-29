@@ -45,10 +45,10 @@
     <object>objects\obj_enemy_shooter</object>
     <object>objects\obj_enemy_bullet</object>
     <object>objects\obj_flamethrower</object>
-    <object>objects\obj_warp1</object>
     <object>objects\obj_mallet</object>
     <object>objects\obj_warp_parent</object>
     <object>objects\obj_warp0</object>
+    <object>objects\obj_warp1</object>
     <object>objects\obj_warp2</object>
     <object>objects\obj_wall</object>
     <object>objects\obj_door</object>
