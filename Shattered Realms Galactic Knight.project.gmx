@@ -32,6 +32,9 @@
     <path>paths\path0</path>
     <path>paths\path1</path>
   </paths>
+  <scripts name="scripts">
+    <script>scripts\GameStart.gml</script>
+  </scripts>
   <objects name="objects">
     <object>objects\obj_Dylan</object>
     <object>objects\obj_controller</object>
