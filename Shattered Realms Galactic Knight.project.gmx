@@ -34,6 +34,7 @@
     <sprite>sprites\spr_cannonball</sprite>
     <sprite>sprites\spr_gremlin</sprite>
     <sprite>sprites\spr_empty</sprite>
+    <sprite>sprites\spr_melee</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\background_unfinished</background>
