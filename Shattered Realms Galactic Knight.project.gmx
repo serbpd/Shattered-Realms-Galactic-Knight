@@ -4,7 +4,12 @@
     <Config>Configs\Default</Config>
   </Configs>
   <NewExtensions/>
-  <sounds name="sound"/>
+  <sounds name="sound">
+    <sound>sound\snd_cannon</sound>
+    <sound>sound\snd_blast</sound>
+    <sound>sound\snd_music</sound>
+    <sound>sound\snd_flamethrower</sound>
+  </sounds>
   <sprites name="sprites">
     <sprite>sprites\spr_test_enemy</sprite>
     <sprite>sprites\spr_test_bullet</sprite>
@@ -24,6 +29,10 @@
     <sprite>sprites\spr_cursor</sprite>
     <sprite>sprites\spr_DylanH</sprite>
     <sprite>sprites\spr_spike_trap</sprite>
+    <sprite>sprites\spr_cannon</sprite>
+    <sprite>sprites\spr_fire</sprite>
+    <sprite>sprites\spr_cannonball</sprite>
+    <sprite>sprites\spr_gremlin</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\background_unfinished</background>
@@ -39,15 +48,15 @@
     <object>objects\obj_Dylan</object>
     <object>objects\obj_controller</object>
     <object>objects\obj_hp_initializer</object>
-    <object>objects\obj_bullet</object>
+    <object>objects\obj_blast</object>
     <object>objects\obj_flame</object>
     <object>objects\obj_melee</object>
     <object>objects\obj_enemy_parent</object>
     <object>objects\obj_enemy_chaser</object>
     <object>objects\obj_enemy_tank</object>
-    <object>objects\obj_enemy_mini</object>
-    <object>objects\obj_enemy_shooter</object>
-    <object>objects\obj_enemy_bullet</object>
+    <object>objects\obj_gremlin</object>
+    <object>objects\obj_cannon</object>
+    <object>objects\obj_cannonball</object>
     <object>objects\obj_flamethrower</object>
     <object>objects\obj_mallet</object>
     <object>objects\obj_warp_parent</object>
@@ -65,6 +74,7 @@
     <object>objects\obj_health</object>
     <object>objects\obj_splat</object>
     <object>objects\obj_spike_trap</object>
+    <object>objects\obj_music</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\room0</room>

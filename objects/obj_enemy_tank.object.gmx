@@ -399,7 +399,7 @@ image_yscale = 1.5;
         <isnot>0</isnot>
       </action>
     </event>
-    <event eventtype="4" ename="obj_enemy_mini">
+    <event eventtype="4" ename="obj_gremlin">
       <action>
         <libid>1</libid>
         <id>115</id>
@@ -605,7 +605,7 @@ image_yscale = 1.5;
         <isnot>0</isnot>
       </action>
     </event>
-    <event eventtype="4" ename="obj_bullet">
+    <event eventtype="4" ename="obj_blast">
       <action>
         <libid>1</libid>
         <id>611</id>
