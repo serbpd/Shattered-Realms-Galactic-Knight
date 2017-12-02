@@ -33,6 +33,7 @@
     <sprite>sprites\spr_fire</sprite>
     <sprite>sprites\spr_cannonball</sprite>
     <sprite>sprites\spr_gremlin</sprite>
+    <sprite>sprites\spr_empty</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\background_unfinished</background>
@@ -75,6 +76,7 @@
     <object>objects\obj_splat</object>
     <object>objects\obj_spike_trap</object>
     <object>objects\obj_music</object>
+    <object>objects\obj_ambush</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\room0</room>

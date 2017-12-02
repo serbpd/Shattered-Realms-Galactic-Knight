@@ -51,18 +51,8 @@
     <view visible="0" objName="&lt;undefined&gt;" xview="0" yview="0" wview="1024" hview="768" xport="0" yport="0" wport="1024" hport="768" hborder="32" vborder="32" hspeed="-1" vspeed="-1"/>
   </views>
   <instances>
-    <instance objName="obj_Dylan" x="416" y="576" name="inst_C86D8096" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_Dylan" x="368" y="352" name="inst_C86D8096" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_controller" x="0" y="0" name="inst_B3CD8FAE" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_enemy_chaser" x="128" y="96" name="inst_430FB9C1" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_cannon" x="96" y="208" name="inst_E50F3ED3" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_cannon" x="640" y="64" name="inst_6FE2CF3E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_flamethrower" x="320" y="608" name="inst_C01A0CCD" locked="0" code="" scaleX="2" scaleY="2" colour="4294967295" rotation="0"/>
-    <instance objName="obj_mallet" x="128" y="640" name="inst_4B5DE3AD" locked="0" code="" scaleX="2" scaleY="2" colour="4294967295" rotation="0"/>
-    <instance objName="obj_enemy_tank" x="288" y="48" name="inst_A4EFE194" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_gremlin" x="528" y="64" name="inst_BA215CB4" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_gremlin" x="592" y="128" name="inst_CC112DEC" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_gremlin" x="544" y="176" name="inst_7547D496" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_gremlin" x="592" y="240" name="inst_5F7531AE" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_warp1" x="352" y="0" name="inst_00128E16" locked="0" code="" scaleX="6.5" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_wall" x="128" y="0" name="inst_2328C69E" locked="0" code="" scaleX="8" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_wall" x="752" y="624" name="inst_CA03C563" locked="0" code="" scaleX="1" scaleY="11" colour="4294967295" rotation="0"/>
@@ -71,17 +61,14 @@
     <instance objName="obj_wall" x="0" y="384" name="inst_84165864" locked="0" code="" scaleX="1" scaleY="25" colour="4294967295" rotation="0"/>
     <instance objName="obj_door" x="352" y="0" name="inst_AF3C4928" locked="0" code="" scaleX="6.5" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_hp_initializer" x="16" y="0" name="inst_55104DD9" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_gremlin" x="608" y="176" name="inst_2CE7117C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_gremlin" x="528" y="112" name="inst_E53931A6" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_gremlin" x="496" y="208" name="inst_F5076310" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_gremlin" x="544" y="240" name="inst_BB85759A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_gremlin" x="640" y="224" name="inst_21CA40C0" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_gremlin" x="592" y="288" name="inst_05033616" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_spike_trap" x="560" y="640" name="inst_DC64A266" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_warp4" x="752" y="352" name="inst_448BA5DD" locked="0" code="" scaleX="1" scaleY="6.5" colour="4294967295" rotation="0"/>
     <instance objName="obj_wall" x="752" y="112" name="inst_C9FE26C2" locked="0" code="" scaleX="1" scaleY="8.5" colour="4294967295" rotation="0"/>
     <instance objName="obj_door" x="752" y="352" name="inst_B985470F" locked="0" code="" scaleX="1" scaleY="6.5" colour="4294967295" rotation="0"/>
     <instance objName="obj_music" x="32" y="0" name="inst_FDE16159" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_enemy_chaser" x="80" y="80" name="inst_D5019D7F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_enemy_chaser" x="672" y="80" name="inst_3B878294" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_enemy_chaser" x="672" y="672" name="inst_819ACB9F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_enemy_chaser" x="80" y="672" name="inst_EACC999A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
   </instances>
   <tiles/>
   <PhysicsWorld>0</PhysicsWorld>
