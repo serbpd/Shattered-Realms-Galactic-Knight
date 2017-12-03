@@ -35,6 +35,9 @@
     <sprite>sprites\spr_gremlin</sprite>
     <sprite>sprites\spr_empty</sprite>
     <sprite>sprites\spr_melee</sprite>
+    <sprite>sprites\spr_gui1</sprite>
+    <sprite>sprites\spr_gui2</sprite>
+    <sprite>sprites\spr_gui3</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\background_unfinished</background>
@@ -50,6 +53,8 @@
     <object>objects\obj_Dylan</object>
     <object>objects\obj_controller</object>
     <object>objects\obj_hp_initializer</object>
+    <object>objects\obj_title</object>
+    <object>objects\obj_weapon_initializer</object>
     <object>objects\obj_blast</object>
     <object>objects\obj_flame</object>
     <object>objects\obj_melee</object>
@@ -58,6 +63,7 @@
     <object>objects\obj_enemy_tank</object>
     <object>objects\obj_gremlin</object>
     <object>objects\obj_cannon</object>
+    <object>objects\obj_rail_cannon</object>
     <object>objects\obj_cannonball</object>
     <object>objects\obj_flamethrower</object>
     <object>objects\obj_mallet</object>
@@ -71,15 +77,18 @@
     <object>objects\obj_warp6</object>
     <object>objects\obj_warp7</object>
     <object>objects\obj_warp8</object>
+    <object>objects\obj_gui</object>
     <object>objects\obj_wall</object>
     <object>objects\obj_door</object>
     <object>objects\obj_health</object>
     <object>objects\obj_splat</object>
     <object>objects\obj_spike_trap</object>
+    <object>objects\obj_spin_spikes</object>
     <object>objects\obj_music</object>
     <object>objects\obj_ambush</object>
   </objects>
   <rooms name="rooms">
+    <room>rooms\room_title</room>
     <room>rooms\room0</room>
     <room>rooms\room1</room>
     <room>rooms\room2</room>

@@ -95,6 +95,7 @@
     <instance objName="obj_enemy_chaser" x="208" y="368" name="inst_11AA3D74" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_gremlin" x="176" y="288" name="inst_8943A285" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_gremlin" x="224" y="288" name="inst_848614BE" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_gui" x="48" y="736" name="inst_C12816B3" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
   </instances>
   <tiles/>
   <PhysicsWorld>0</PhysicsWorld>

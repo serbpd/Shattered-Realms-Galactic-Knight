@@ -72,6 +72,7 @@
     <instance objName="obj_wall" x="368" y="112" name="inst_05D22861" locked="0" code="" scaleX="1" scaleY="8" colour="4294967295" rotation="0"/>
     <instance objName="obj_wall" x="592" y="320" name="inst_6827208A" locked="0" code="" scaleX="10" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_spike_trap" x="400" y="272" name="inst_A1B963C5" locked="0" code="" scaleX="1.5" scaleY="1.5" colour="4294967295" rotation="0"/>
+    <instance objName="obj_gui" x="48" y="736" name="inst_74BFF15E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
   </instances>
   <tiles/>
   <PhysicsWorld>0</PhysicsWorld>

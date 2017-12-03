@@ -84,6 +84,7 @@
     <instance objName="obj_spike_trap" x="480" y="720" name="inst_30A73D1F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_spike_trap" x="448" y="688" name="inst_D9B5F19B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_spike_trap" x="416" y="656" name="inst_6EED6985" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_gui" x="48" y="736" name="inst_8E286404" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
   </instances>
   <tiles/>
   <PhysicsWorld>0</PhysicsWorld>
