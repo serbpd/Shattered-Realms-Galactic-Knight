@@ -39,6 +39,7 @@
     <sprite>sprites\spr_gui1</sprite>
     <sprite>sprites\spr_gui2</sprite>
     <sprite>sprites\spr_gui3</sprite>
+    <sprite>sprites\spr_orc</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\background_unfinished</background>
