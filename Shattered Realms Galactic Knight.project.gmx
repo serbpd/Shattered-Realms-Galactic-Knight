@@ -16,6 +16,7 @@
     <sprite>sprites\spr_shockwave</sprite>
     <sprite>sprites\spr_test_enemy2</sprite>
     <sprite>sprites\spr_DylanV</sprite>
+    <sprite>sprites\spr_tree</sprite>
     <sprite>sprites\spr_blaster</sprite>
     <sprite>sprites\spr_blast</sprite>
     <sprite>sprites\spr_flamethrower</sprite>
@@ -41,6 +42,11 @@
   </sprites>
   <backgrounds name="background">
     <background>background\background_unfinished</background>
+    <background>background\background1</background>
+    <background>background\background2</background>
+    <background>background\background3</background>
+    <background>background\background4</background>
+    <background>background\background5</background>
   </backgrounds>
   <paths name="paths">
     <path>paths\path0</path>
@@ -86,6 +92,7 @@
     <object>objects\obj_spin_spikes</object>
     <object>objects\obj_music</object>
     <object>objects\obj_ambush</object>
+    <object>objects\obj_tree</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\room_title</room>
