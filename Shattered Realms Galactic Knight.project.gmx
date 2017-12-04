@@ -29,6 +29,8 @@
     <sprite>sprites\spr_health</sprite>
     <sprite>sprites\spr_cursor</sprite>
     <sprite>sprites\spr_DylanH</sprite>
+    <sprite>sprites\spr_Dylan_blast</sprite>
+    <sprite>sprites\spr_Dylan_flame</sprite>
     <sprite>sprites\spr_spike_trap</sprite>
     <sprite>sprites\spr_cannon</sprite>
     <sprite>sprites\spr_fire</sprite>

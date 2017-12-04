@@ -70,7 +70,7 @@
     <instance objName="obj_ambush" x="304" y="80" name="inst_582495AB" locked="0" code="" scaleX="2.5" scaleY="0.5" colour="4294967295" rotation="0"/>
     <instance objName="obj_ambush" x="336" y="128" name="inst_36A7D432" locked="0" code="" scaleX="0.5" scaleY="2.5" colour="4294967295" rotation="0"/>
     <instance objName="obj_ambush" x="304" y="160" name="inst_A97DD9B8" locked="0" code="" scaleX="2.5" scaleY="0.5" colour="4294967295" rotation="0"/>
-    <instance objName="obj_cannon" x="672" y="672" name="inst_5345500F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_cannon" x="688" y="672" name="inst_5345500F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_enemy_tank" x="464" y="480" name="inst_3E4E949C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_enemy_chaser" x="528" y="496" name="inst_FF9A3806" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_enemy_chaser" x="432" y="528" name="inst_1B30BDBD" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
@@ -82,6 +82,13 @@
     <instance objName="obj_spin_spikes" x="96" y="320" name="inst_8DBBC32F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_spin_spikes" x="96" y="464" name="inst_F735BED6" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_gui" x="48" y="736" name="inst_D087A531" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_wall" x="288" y="256" name="inst_BD798E14" locked="0" code="" scaleX="7" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_wall" x="224" y="560" name="inst_6286E1D9" locked="0" code="" scaleX="6" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_wall" x="512" y="144" name="inst_8D1398D1" locked="0" code="" scaleX="2.5" scaleY="5" colour="4294967295" rotation="0"/>
+    <instance objName="obj_wall" x="672" y="592" name="inst_3FC5CF43" locked="0" code="" scaleX="4.5" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_wall" x="608" y="608" name="inst_D130D8C4" locked="0" code="" scaleX="1" scaleY="2" colour="4294967295" rotation="0"/>
+    <instance objName="obj_wall" x="608" y="704" name="inst_9B729C97" locked="0" code="" scaleX="1" scaleY="2" colour="4294967295" rotation="0"/>
+    <instance objName="obj_spike_trap" x="432" y="240" name="inst_81AC5D67" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
   </instances>
   <tiles/>
   <PhysicsWorld>0</PhysicsWorld>
