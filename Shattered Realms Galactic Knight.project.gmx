@@ -43,14 +43,17 @@
     <sprite>sprites\spr_gui3</sprite>
     <sprite>sprites\spr_orc</sprite>
     <sprite>sprites\spr_ettin</sprite>
+    <sprite>sprites\spr_Dragon</sprite>
+    <sprite>sprites\spr_title_button</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\background_unfinished</background>
     <background>background\background1</background>
     <background>background\background2</background>
-    <background>background\background3</background>
     <background>background\background4</background>
     <background>background\background5</background>
+    <background>background\background_title</background>
+    <background>background\background7</background>
   </backgrounds>
   <paths name="paths">
     <path>paths\path0</path>
