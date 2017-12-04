@@ -9,6 +9,8 @@
     <sound>sound\snd_blast</sound>
     <sound>sound\snd_music</sound>
     <sound>sound\snd_flamethrower</sound>
+    <sound>sound\snd_boss</sound>
+    <sound>sound\snd_dragonfly</sound>
   </sounds>
   <sprites name="sprites">
     <sprite>sprites\spr_test_enemy</sprite>
@@ -48,6 +50,7 @@
     <sprite>sprites\spr_title_button</sprite>
     <sprite>sprites\spr_tower</sprite>
     <sprite>sprites\spr_tower2</sprite>
+    <sprite>sprites\spr_dragonfly</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\background_unfinished</background>
@@ -100,7 +103,7 @@
     <object>objects\obj_health</object>
     <object>objects\obj_splat</object>
     <object>objects\obj_spike_trap</object>
-    <object>objects\obj_spin_spikes</object>
+    <object>objects\obj_dragonfly</object>
     <object>objects\obj_music</object>
     <object>objects\obj_ambush</object>
     <object>objects\obj_tree</object>
