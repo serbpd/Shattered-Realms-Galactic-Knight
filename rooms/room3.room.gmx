@@ -73,7 +73,7 @@
     <instance objName="obj_spike_trap" x="720" y="304" name="inst_41F4439F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_spike_trap" x="656" y="416" name="inst_10614BA8" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_spike_trap" x="704" y="416" name="inst_CBE2F743" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_spike_trap" x="272" y="560" name="inst_E2AE4382" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_spike_trap" x="272" y="560" name="inst_E2AE4382" locked="0" code="" scaleX="1.5" scaleY="2" colour="4294967295" rotation="0"/>
     <instance objName="obj_spike_trap" x="720" y="512" name="inst_3C154D3B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_spike_trap" x="672" y="512" name="inst_1F682AD0" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_flamethrower" x="496" y="192" name="inst_10276F8C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>

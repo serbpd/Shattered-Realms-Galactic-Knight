@@ -21,6 +21,7 @@
     <sprite>sprites\spr_blast</sprite>
     <sprite>sprites\spr_flamethrower</sprite>
     <sprite>sprites\spr_flame</sprite>
+    <sprite>sprites\spr_dragon_flame</sprite>
     <sprite>sprites\spr_mallet</sprite>
     <sprite>sprites\spr_warp</sprite>
     <sprite>sprites\spr_wall</sprite>
@@ -45,6 +46,8 @@
     <sprite>sprites\spr_ettin</sprite>
     <sprite>sprites\spr_Dragon</sprite>
     <sprite>sprites\spr_title_button</sprite>
+    <sprite>sprites\spr_tower</sprite>
+    <sprite>sprites\spr_tower2</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\background_unfinished</background>
@@ -100,6 +103,10 @@
     <object>objects\obj_music</object>
     <object>objects\obj_ambush</object>
     <object>objects\obj_tree</object>
+    <object>objects\obj_tower1</object>
+    <object>objects\obj_tower2</object>
+    <object>objects\obj_boss</object>
+    <object>objects\obj_dragon_flame</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\room_title</room>
