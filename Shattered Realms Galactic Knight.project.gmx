@@ -47,10 +47,12 @@
     <sprite>sprites\spr_orc</sprite>
     <sprite>sprites\spr_ettin</sprite>
     <sprite>sprites\spr_Dragon</sprite>
+    <sprite>sprites\spr_claw</sprite>
     <sprite>sprites\spr_title_button</sprite>
     <sprite>sprites\spr_tower</sprite>
     <sprite>sprites\spr_tower2</sprite>
     <sprite>sprites\spr_dragonfly</sprite>
+    <sprite>sprites\spr_rubble</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\background_unfinished</background>
@@ -65,6 +67,7 @@
     <path>paths\path0</path>
     <path>paths\path1</path>
     <path>paths\path2</path>
+    <path>paths\path3</path>
   </paths>
   <scripts name="scripts">
     <script>scripts\GameStart.gml</script>
@@ -111,6 +114,8 @@
     <object>objects\obj_tower2</object>
     <object>objects\obj_boss</object>
     <object>objects\obj_dragon_flame</object>
+    <object>objects\obj_claw</object>
+    <object>objects\obj_rubble</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\room_title</room>

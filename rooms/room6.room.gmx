@@ -81,7 +81,7 @@
     <instance objName="obj_gremlin" x="240" y="720" name="inst_7ADFCF41" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_gremlin" x="288" y="688" name="inst_0D82C102" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_gremlin" x="320" y="704" name="inst_581C13E7" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_enemy_tank" x="480" y="208" name="inst_499D8E8C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_enemy_tank" x="480" y="240" name="inst_499D8E8C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_enemy_tank" x="48" y="496" name="inst_B7357B29" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_enemy_chaser" x="112" y="512" name="inst_F2C39AD5" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_enemy_chaser" x="176" y="512" name="inst_72F1FFC0" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>

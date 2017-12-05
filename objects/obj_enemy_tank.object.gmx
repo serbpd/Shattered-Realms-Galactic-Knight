@@ -29,7 +29,7 @@
           </argument>
           <argument>
             <kind>0</kind>
-            <string>150</string>
+            <string>120</string>
           </argument>
         </arguments>
       </action>
@@ -1118,7 +1118,7 @@ image_yscale = 1.5;
         <arguments>
           <argument>
             <kind>0</kind>
-            <string>-8</string>
+            <string>-5</string>
           </argument>
         </arguments>
       </action>
