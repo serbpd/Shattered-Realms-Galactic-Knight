@@ -7,5 +7,8 @@ weapons once they are aquired. Defeat all enemies in a room to open
 the doors and proceed to another room. Explore the map to find new
 weapons and prepare for the final boss.
 
+Don't get hit by enemies or their attacks, and pick up health packs
+to restore your health.
+
 Cheat Codes:
 Press the 'K' key to immediately kill all enemies in the current room.

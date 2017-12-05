@@ -28,8 +28,6 @@
             <string>image_speed = 0.25;
 image_xscale = .8;
 image_yscale = .8;
-
-sound_volume(snd_dragonfly, .2);
 </string>
           </argument>
         </arguments>

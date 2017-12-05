@@ -11,6 +11,9 @@
     <sound>sound\snd_flamethrower</sound>
     <sound>sound\snd_boss</sound>
     <sound>sound\snd_dragonfly</sound>
+    <sound>sound\snd_death</sound>
+    <sound>sound\snd_weapon_get</sound>
+    <sound>sound\snd_boss_music</sound>
   </sounds>
   <sprites name="sprites">
     <sprite>sprites\spr_test_enemy</sprite>
